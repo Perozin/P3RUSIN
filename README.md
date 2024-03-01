@@ -57,7 +57,7 @@
 - 👯 My intention is to be able to collaborate with the development of applications that help improve the quality of life of people and companies. ...
 - 📫 How to reach me:
   <div>
-  <a href = "mailto:marcioperozin@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = ""mailto:contato@marcioperozin@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcio-perozin-58162334/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the adge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
