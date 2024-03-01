@@ -55,8 +55,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" width="40" />    
            
 - 👯 My intention is to be able to collaborate with the development of applications that help improve the quality of life of people and companies. ...
-- 📫 How to reach me: [perfil Linkedin](https://www.linkedin.com/in/marcio-perozin-58162334/) ...
+- 📫 How to reach me: <div><a href = "mailto:contato@marcioperozin@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/marcio-perozin-58162334/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+  
 - 💬 Ask me about: ![Img more than 1000 words](https://github.com/Perozin/P3RUSINMARCIO/assets/47696277/1ebae380-6e3c-4244-a6f7-81c21bc1e5c2) 
+
+
 
 <div>
 <a href="https://github.com/Perozin">
